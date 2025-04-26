@@ -1,0 +1,14 @@
+D:\Programas C#\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net7.0\CursoC#.exe
+D:\Programas C#\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net7.0\CursoC#.deps.json
+D:\Programas C#\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net7.0\CursoC#.runtimeconfig.json
+D:\Programas C#\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net7.0\CursoC#.dll
+D:\Programas C#\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net7.0\CursoC#.pdb
+D:\Programas C#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\CursoC#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas C#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\CursoC#.AssemblyInfoInputs.cache
+D:\Programas C#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\CursoC#.AssemblyInfo.cs
+D:\Programas C#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\CursoC#.csproj.CoreCompileInputs.cache
+D:\Programas C#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\CursoC#.dll
+D:\Programas C#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\refint\CursoC#.dll
+D:\Programas C#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\CursoC#.pdb
+D:\Programas C#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\CursoC#.genruntimeconfig.cache
+D:\Programas C#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\ref\CursoC#.dll
