@@ -6,15 +6,16 @@ using System.Threading.Tasks;
 
 namespace PrimeiroProjeto.Exercícios_URI
 {
-    internal class _1004_ProdutoSimples
+    public class _1004_ProdutoSimples
     {
-        /*
-        int A = int.Parse(Console.ReadLine());
-        int B = int.Parse(Console.ReadLine());
+        public void ProdutoSimples(){
+            
+            int A = int.Parse(Console.ReadLine());
+            int B = int.Parse(Console.ReadLine());
 
-        int PROD = A * B;
+            int PROD = A * B;
 
-        Console.WriteLine("PROD = "+PROD);
-        */
+            Console.WriteLine("PROD = " + PROD);
+        }
     }
 }

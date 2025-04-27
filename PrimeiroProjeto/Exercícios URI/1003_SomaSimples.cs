@@ -6,15 +6,16 @@ using System.Threading.Tasks;
 
 namespace PrimeiroProjeto.Exercícios_URI
 {
-    internal class _1003_SomaSimples
+    public class _1003_SomaSimples
     {
-/*
-        int A = int.Parse(Console.ReadLine());
-        int B = int.Parse(Console.ReadLine());
+        public void SomaSimples() {
 
-        int soma = A + B;
+            int A = int.Parse(Console.ReadLine());
+            int B = int.Parse(Console.ReadLine());
 
-        Console.WriteLine("SOMA = "+ soma);
-*/
+            int soma = A + B;
+
+            Console.WriteLine("SOMA = " + soma);
+        }
     }
 }

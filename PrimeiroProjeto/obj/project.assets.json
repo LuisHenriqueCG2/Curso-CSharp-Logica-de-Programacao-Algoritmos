@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programas C#\\CursoC#\\PrimeiroProjeto\\CursoC#.csproj",
-      "projectName": "CursoC#",
-      "projectPath": "D:\\Programas C#\\CursoC#\\PrimeiroProjeto\\CursoC#.csproj",
+      "projectUniqueName": "D:\\Programas C#\\Curso\\CursoC#\\PrimeiroProjeto\\PrimeiroProjeto.csproj",
+      "projectName": "PrimeiroProjeto",
+      "projectPath": "D:\\Programas C#\\Curso\\CursoC#\\PrimeiroProjeto\\PrimeiroProjeto.csproj",
       "packagesPath": "C:\\Users\\Usuário\\.nuget\\packages\\",
-      "outputPath": "D:\\Programas C#\\CursoC#\\PrimeiroProjeto\\obj\\",
+      "outputPath": "D:\\Programas C#\\Curso\\CursoC#\\PrimeiroProjeto\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

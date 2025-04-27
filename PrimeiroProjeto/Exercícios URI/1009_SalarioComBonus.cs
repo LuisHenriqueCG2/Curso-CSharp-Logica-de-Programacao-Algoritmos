@@ -7,22 +7,23 @@ using System.Threading.Tasks;
 
 namespace PrimeiroProjeto.Exercícios_URI
 {
-    internal class _1009_SalarioComBonus
+    public class _1009_SalarioComBonus
     {
-       /* 
-        string nome;
-        double salario, venda, totalSalario;
-        double percComissao = 0.15;
+       public void SalarioComBonus()
+        {
+            string nome;
+            double salario, venda, totalSalario;
+            double percComissao = 0.15;
 
-        nome = Console.ReadLine();
+            nome = Console.ReadLine();
 
-        salario = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            salario = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-        venda = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            venda = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-        totalSalario = (venda* percComissao) + salario;
+            totalSalario = (venda * percComissao) + salario;
 
-        Console.WriteLine("TOTAL = R$ " + totalSalario.ToString("F2", CultureInfo.InvariantCulture));
-       */
+            Console.WriteLine("TOTAL = R$ " + totalSalario.ToString("F2", CultureInfo.InvariantCulture));
+        }
     }
 }
