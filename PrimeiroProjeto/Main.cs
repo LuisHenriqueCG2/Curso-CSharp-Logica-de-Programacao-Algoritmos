@@ -9,8 +9,11 @@ namespace PrimeiroProjeto
     {
         static void Main(string[] args)
         {
-            _1000_HelloWorld hello = new _1000_HelloWorld();
-            hello.HelloWorld();
+            //_1000_HelloWorld hello = new _1000_HelloWorld();
+            //hello.HelloWorld();
+
+            _1019_ConversaoDeTempo conversaoTempo = new _1019_ConversaoDeTempo();
+            conversaoTempo.ConversaoTempo();
         }
     }
 } 

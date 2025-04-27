@@ -26,7 +26,7 @@ namespace PrimeiroProjeto.Exercícios_URI
 
             total = preco1 * qte1 + preco2 * qte2;
 
-            Console.WriteLine("VALOR A PAGAR: R$ " + total.ToString("F2", CultureInfo.InvariantCulture))
+            Console.WriteLine("VALOR A PAGAR: R$ " + total.ToString("F2", CultureInfo.InvariantCulture));
         }
     }
 }
